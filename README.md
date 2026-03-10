@@ -62,5 +62,5 @@ Developed to solve API restrictions and platform stability issues in third-party
 
 ---
 #### ⚠️ 免責聲明 (Disclaimer)
-本專案僅供技術展示使用，不構成任何投資建議。
+本專案僅供技術展示，不構成任何投資建議。
 *For technical demonstration only. Not investment advice.*
