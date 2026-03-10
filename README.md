@@ -1,5 +1,4 @@
-# Multi-Broker Automated Trading Executor
-## 多券商自動化交易下單系統 (Python)
+# Multi-Broker Automated Trading Executor(Python)
 
 #### 專案概述 (Project Overview)
 本專案為一套針對多券商開發的自動化下單中台系統。核心目標在於解決主流交易平台（如 MultiCharts）在 API 串接上的限制，提供更靈活、高效率的執行環境。
