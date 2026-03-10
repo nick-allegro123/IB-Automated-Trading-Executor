@@ -44,10 +44,10 @@ This project is a multi-broker automated trading middleware designed to overcome
 
 3. **差額執行運算 (Delta Calculation)：** 當偵測到目標部位變動時，系統將計算 **「目標部位 (Target)」** 與 **「當前實體部位 (Current)」** 的差額進行下單：
    *When a change in target position is detected, the system calculates the delta between the "Target Position" and the "Current Position" for order execution:*
-   * **情境一 (Scenario A)：** 數值由 `0` 變更為 `1` $\rightarrow$ 差額為 `+1` $\rightarrow$ 執行 **買進 1 股**。
-     *Value changes from 0 to 1 $\rightarrow$ Delta is +1 $\rightarrow$ Execute **Buy 1 share**.*
-   * **情境二 (Scenario B)：** 數值由 `1` 變更為 `-3` $\rightarrow$ 差額為 `-4` $\rightarrow$ 執行 **賣出 4 股**。
-     *Value changes from 1 to -3 $\rightarrow$ Delta is -4 $\rightarrow$ Execute **Sell 4 shares**.*
+   * **情境一 (Scenario A)：** 數值由 `0` 變更為 `1` → 差額為 `+1` → 執行 **買進 1 股**。
+     *Value changes from 0 to 1 → Delta is +1 → Execute **Buy 1 share**.*
+   * **情境二 (Scenario B)：** 數值由 `1` 變更為 `-3` → 差額為 `-4` $\rightarrow$ 執行 **賣出 4 股**。
+     *Value changes from 1 to -3 → Delta is -4 → Execute **Sell 4 shares**.*
 
 4. **安全風控與驗證 (Risk Control & Security)：**
    * **身分驗證 (Authentication)：** 內建 API 授權檢查，確保指令僅在合法帳戶執行。
