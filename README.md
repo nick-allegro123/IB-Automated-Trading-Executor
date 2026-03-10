@@ -62,7 +62,7 @@ Developed to solve API restrictions and platform stability issues in third-party
 
 #### 作者聲明 (Author & Attribution)
 * **開發者 (Developer)：** 胡令元
-* **專案類型 (Project Type)：** 自主研發之量化交易系統
+* **專案類型 (Project Type)：** 量化交易-下單執行系統
 * **聯絡方式 (Contact)：** nickutri123@gmail.com
 
 ---
