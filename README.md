@@ -60,6 +60,11 @@ This project is a multi-broker automated trading middleware designed to overcome
 
 Developed to solve API restrictions and platform stability issues in third-party software, ensuring full control over the execution workflow.
 
+#### 作者聲明 (Author & Attribution)
+* **開發者 (Developer)：** 胡令元
+* **專案類型 (Project Type)：** 自主研發之量化交易系統
+* **聯絡方式 (Contact)：** nickutri123@gmail.com
+
 ---
 #### ⚠️ 免責聲明 (Disclaimer)
 本專案僅供技術展示，不構成任何投資建議。
